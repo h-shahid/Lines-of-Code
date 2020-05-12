@@ -1,8 +1,6 @@
 Full Stack Development > Lab: 99 Lines of Code - Part 1
-
-Expand All
-Still Working  All Finished
 Info
+
 This lab consists of two parts
 In this iteration you will be doing most of the logic/coding
 You will also get started on the graphical appearance
